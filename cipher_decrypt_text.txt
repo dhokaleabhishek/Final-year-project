@@ -1,0 +1,4 @@
+This abstract delves into the realm of image-text encryption and decryption techniques, elucidating their significance
+ in safeguarding sensitive information. This research explores the
+ motivations driving the development and implementation of image
+text encryption and decryption methodologies.
